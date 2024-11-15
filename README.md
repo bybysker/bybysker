@@ -1,11 +1,11 @@
 # 👋 Welcome to Bybysker's GitHub!  
 
 ## 🚀 About Me  
-- **🌍 Explorer**: Transitioning to international opportunities.  
-- **💻 Data Scientist**: With 5+ years in data science at Solocal and Renault Digital, working in digital marketing applications. Skilled in building, productionizing, and optimizing ML models on Google Cloud Platform (GCP) to enhance project performance.
-- **🛠️ MLOps Engineer**: Experienced in designing robust MLOps frameworks, including data validation, pipeline automation, and deployment.
-- **🎥 Content creator**: Sharing my journey in **data**, **self-determination**, and **fitness**.  
-- **👨‍💻 Developer**: Building applications using LLMs and AI-driven tools to empower users in goal-setting and self-discipline.  
+ **🌍 Explorer**: Transitioning to international opportunities.  
+ **💻 Data Scientist**: With 5+ years in data science at Solocal and Renault Digital, working in digital marketing applications. Skilled in building, productionizing, and optimizing ML models on Google Cloud Platform (GCP) to enhance project performance.
+ **🛠️ MLOps Engineer**: Experienced in designing robust MLOps frameworks, including data validation, pipeline automation, and deployment.
+ **🎥 Content creator**: Sharing my journey in **data**, **self-determination**, and **fitness**.  
+ **👨‍💻 Developer**: Building applications using LLMs and AI-driven tools to empower users in goal-setting and self-discipline.  
 
 ## 🛠️ Tech Stack  
 - **Languages**: Python 🐍 (Pandas, NumPy, Scikit-learn, TensorFlow, Keras), SQL, Bash, C/C++, TypeScript 🌐  
