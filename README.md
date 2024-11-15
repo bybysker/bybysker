@@ -1,16 +1,8 @@
-# 👋 Welcome to Bybysker's GitHub!  
+# 👋Hey, I'm Elbby
 
-## 🚀 About Me  
+I'm a data scientist with over 5 years of experience, which sounds serious, but I promise I’m fun (and funny)! 
 
-- **🌍 Explorer**: Transitioning to international opportunities.
-  
-- **💻 Data Scientist**: With 5+ years in data science at Solocal and Renault Digital, working in digital marketing applications. Skilled in building, productionizing, and optimizing ML models on Google Cloud Platform (GCP) to enhance project performance.
-  
-- **🛠️ MLOps Engineer**: Experienced in designing robust MLOps frameworks, including data validation, pipeline automation, and deployment.
-  
-- **🎥 Content creator**: Sharing my journey in **data**, **self-determination**, and **fitness**.
-  
-- **👨‍💻 Developer**: Building applications using LLMs and AI-driven tools to empower users in goal-setting and self-discipline.  
+🌟 I’ve spent time at Solocal and Renault Digital, building, optimizing, and deploying ML models and playing around with big data on Google Cloud Platform. I’m also an MLOps enthusiast—yes, I know, it sounds intense, but really, it just means I love making pipelines behave. On the side, I’m a YouTuber, sharing my journey through data, self-determination, and fitness. Right now, I’m all about exploring how LLMs and AI-driven tools can make life more efficient—and more fun. 
 
 ## 🛠️ Tech Stack  
 
