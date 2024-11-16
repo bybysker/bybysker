@@ -1,4 +1,4 @@
-# 👋Hey, I'm Elbby
+# 👋  Hey, I'm Elbby
 
 I'm a data scientist with over 5 years of experience, which sounds serious, but I promise I’m fun (and funny)! 
 
