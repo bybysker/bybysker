@@ -2,7 +2,7 @@
 
 I'm a data scientist with over 5 years of experience, which sounds serious, but I promise I’m fun (and funny)!  
 
-🌟 I’ve spent time at **Solocal** and **Renault Digital**, building, optimizing, and deploying ML models, while playing with big data on **Google Cloud Platform**. I’m an **MLOps enthusiast** (yes, I love pipelines), and on the side, I’m a **YouTuber**, sharing my journey through **data**, **self-determination**, and **fitness**. Lately, I’ve been diving into **LLMs** and **AI-driven tools** to explore how they can make life more efficient—and more fun.  
+🌟 I’ve spent time at **Solocal** and **Renault Digital**, building, optimizing, and deploying ML models, while playing with big data on **Google Cloud Platform**. I’m an **ML Eng enthusiast** (yes, I love pipelines), and on the side, I’m a **YouTuber**, sharing my journey through **data**, **self-determination**, and **fitness**. Lately, I’ve been diving into **LLMs** and **AI-driven tools** to explore how they can make life more efficient—and more fun.  
 
 ---
 
