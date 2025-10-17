@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Elbby  
+# 👋 Hey, I'm Elbby Skermine
 
 🌟 I’m an AI Engineer who spent 7 years at **Solocal**, **Renault Digital**, and **Devoteam** building, optimizing, and deploying ML models, while playing with big data on **GCP** and **AWS**
 
