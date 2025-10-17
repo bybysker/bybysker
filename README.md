@@ -73,14 +73,6 @@
 
 ---
 
-## 🎯 Current Fun Projects  
-
-- **🌟 [The Pvth](https://github.com/bybysker/thepvth)**: Breaking down user goals into actionable tasks with LLMs.  
-- **📚 [Ponoupo, The RAG app](https://github.com/bybysker/PONOUPO)**: Simple interactive PoC to query and manage document bases.  
-- **🎥 [FCPX Edit Buddy](https://github.com/bybysker/fcpx-edit-buddy)**: Automating animated video editing workflows.  
-
----
-
 💡 *"Self-awareness is key."*  
 
 <p align="center">
